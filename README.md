@@ -1,3 +1,3 @@
 # Kokoa Clone 2021 update
 
-CSS got so much better!
+HTML & CSS is so easy to learn!
