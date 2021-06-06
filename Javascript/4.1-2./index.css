@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: color 1s ease-in-out;
+}
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
