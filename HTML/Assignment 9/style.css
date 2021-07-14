@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#box {
+  position: relative;
+  width: 400px;
+  height: 900px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #03c6ad;
+}
+#menu {
+  position: relative;
+  top: 70px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  line-height: 10px;
+  font-size: 30px;
+  font-weight: bold;
+}
